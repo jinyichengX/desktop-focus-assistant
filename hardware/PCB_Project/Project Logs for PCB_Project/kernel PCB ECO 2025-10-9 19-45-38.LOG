@@ -1,0 +1,16 @@
+Change Component DesignItemId : Designator=R7 Old DesignItemId=0603WAF499JT5E New DesignItemId=0402WGF499JTCE
+Change Component DesignItemId : Designator=R9 Old DesignItemId=0603WAF499JT5E New DesignItemId=0402WGF499JTCE
+Change Component DesignItemId : Designator=R14 Old DesignItemId=0603WAF499JT5E New DesignItemId=0402WGF499JTCE
+Change Component DesignItemId : Designator=R17 Old DesignItemId=0603WAF499JT5E New DesignItemId=0402WGF499JTCE
+Change Component Footprint: Designator=R7 Old Footprint=0603_R New Footprint=0402_R
+Change Component Footprint: Designator=R9 Old Footprint=0603_R New Footprint=0402_R
+Change Component Footprint: Designator=R14 Old Footprint=0603_R New Footprint=0402_R
+Change Component Footprint: Designator=R17 Old Footprint=0603_R New Footprint=0402_R
+Change Component Library : Designator=R7 Old Library= New Library=kernel.SchLib
+Change Component Library : Designator=R9 Old Library= New Library=kernel.SchLib
+Change Component Library : Designator=R14 Old Library= New Library=kernel.SchLib
+Change Component Library : Designator=R17 Old Library= New Library=kernel.SchLib
+Change component parameters: Designator = "R7" ("R7"); Footprint = "0603_R"; UniqueID = "\GIREKOKC" ("\GIREKOKC")
+Change component parameters: Designator = "R9" ("R9"); Footprint = "0603_R"; UniqueID = "\GIEOLXEQ" ("\GIEOLXEQ")
+Change component parameters: Designator = "R14" ("R14"); Footprint = "0603_R"; UniqueID = "\USGVVTIH" ("\USGVVTIH")
+Change component parameters: Designator = "R17" ("R17"); Footprint = "0603_R"; UniqueID = "\FGVUHMXJ" ("\FGVUHMXJ")

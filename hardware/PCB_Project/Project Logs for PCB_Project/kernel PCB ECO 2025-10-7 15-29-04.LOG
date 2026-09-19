@@ -1,0 +1,13 @@
+Added Component: Designator=M1(PCBComponent_1 - duplicate)
+Added Component: Designator=M2(PCBComponent_1 - duplicate)
+Added Component: Designator=M3(PCBComponent_1 - duplicate)
+Added Component: Designator=M4(PCBComponent_1 - duplicate)
+Added Pin To Net: NetName=SGND Pin=M1-1
+Added Pin To Net: NetName=SGND Pin=M2-1
+Added Pin To Net: NetName=SGND Pin=M3-1
+Added Pin To Net: NetName=SGND Pin=M4-1
+Added Member To Class: ClassName=kernel Member=Component M1 M2√∑ª®∫∏≈Ã
+Added Member To Class: ClassName=kernel Member=Component M2 M2√∑ª®∫∏≈Ã
+Added Member To Class: ClassName=kernel Member=Component M3 M2√∑ª®∫∏≈Ã
+Added Member To Class: ClassName=kernel Member=Component M4 M2√∑ª®∫∏≈Ã
+Added Room: Name=kernel

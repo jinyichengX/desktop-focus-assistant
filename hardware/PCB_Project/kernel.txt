@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : M:\×ÀÃæ×¨×¢ÖúÊÖ\hardware\PCB_Project\kernel.PcbDoc
+Date         : 2025/10/13
+Time         : 13:34:31
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 437
+    Connections routed, 437
+    Connections remaining, 0
+count : 4

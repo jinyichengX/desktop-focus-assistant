@@ -1,0 +1,63 @@
+Added Component: Designator=J200(FPC-SMD_AFC01-S40FCA-00)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "下接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/AFC01-S40FCA-00/253933.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "AFC01-S40FCA-00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FFC, FCB Thickness"; Value = "0.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height Above Board"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "间距:0.5mm P数:40P 翻盖式 下接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Locking Feature"; Value = "翻盖式"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JS(钜硕电子)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "AFC01-S40FCA-00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "卧贴"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "40P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD,P=0.5mm,卧贴"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C262674"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "AFC01-S40FCA-00"; VariantName = "[No Variations]"
+Added Component: Designator=J201(FPC-SMD_AFC01-S40FCA-00)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "下接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/AFC01-S40FCA-00/253933.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "AFC01-S40FCA-00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FFC, FCB Thickness"; Value = "0.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height Above Board"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "间距:0.5mm P数:40P 翻盖式 下接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Locking Feature"; Value = "翻盖式"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JS(钜硕电子)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "AFC01-S40FCA-00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "卧贴"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "40P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD,P=0.5mm,卧贴"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C262674"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "AFC01-S40FCA-00"; VariantName = "[No Variations]"
+Added Component: Designator=U200(TSSOP-16_L5.0-W4.4-P0.65-LS6.4-BL)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/XPT2046/19779.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "XPT2046"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "XPT2046"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XPT(矽普特)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "XPT2046"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "TSSOP-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C19076"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "XPT2046"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Touch Screen Type"; Value = "-"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=XL Pin=J201-2
+Added Net: Name=XL
+Added Pin To Net: NetName=XR Pin=J201-4
+Added Net: Name=XR
+Added Pin To Net: NetName=YD Pin=J201-3
+Added Net: Name=YD
+Added Pin To Net: NetName=YU Pin=J201-1
+Added Net: Name=YU

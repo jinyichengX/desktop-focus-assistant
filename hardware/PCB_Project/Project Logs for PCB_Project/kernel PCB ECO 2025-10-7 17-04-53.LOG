@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=M2 NewDesignator=M1
+Added Pin To Net: NetName=VCCM Pin=C35-2
+Added Pin To Net: NetName=VCCM Pin=C36-2
+Added Pin To Net: NetName=VCCM Pin=C37-2
+Added Pin To Net: NetName=VCCM Pin=C38-2
+Added Pin To Net: NetName=VCCM Pin=C39-2
+Added Pin To Net: NetName=VCCM Pin=C40-2
+Added Pin To Net: NetName=VCCM Pin=C41-2
+Added Pin To Net: NetName=VCCM Pin=C42-2
+Added Pin To Net: NetName=VCCM Pin=C43-2
+Added Pin To Net: NetName=VCCM Pin=C44-2
+Added Class: Name=kernel_RJ45
+Added Room: Name=kernel

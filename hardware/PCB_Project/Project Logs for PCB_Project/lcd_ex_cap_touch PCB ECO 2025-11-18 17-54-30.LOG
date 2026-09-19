@@ -1,0 +1,166 @@
+Added Component: Designator=J300(FPC-SMD_P0.50-6P_QCHF-SM-H2.0_1)
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "AFC24-S06FIA-00"; VariantName = "[No Variations]"
+Added Component: Designator=J301(FPC-SMD_AFC01-S40FCA-00)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "下接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/AFC01-S40FCA-00/253933.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "AFC01-S40FCA-00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FFC, FCB Thickness"; Value = "0.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height Above Board"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "间距:0.5mm P数:40P 翻盖式 下接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Locking Feature"; Value = "翻盖式"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JS(钜硕电子)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "AFC01-S40FCA-00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "卧贴"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "40P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD,P=0.5mm,卧贴"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C262674"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "AFC01-S40FCA-00"; VariantName = "[No Variations]"
+Added Component: Designator=J302(FPC-SMD_AFC01-S40FCA-00)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "下接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/AFC01-S40FCA-00/253933.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "AFC01-S40FCA-00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FFC, FCB Thickness"; Value = "0.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height Above Board"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "间距:0.5mm P数:40P 翻盖式 下接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Locking Feature"; Value = "翻盖式"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JS(钜硕电子)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "AFC01-S40FCA-00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "卧贴"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "40P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD,P=0.5mm,卧贴"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C262674"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "AFC01-S40FCA-00"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J300-3
+Added Pin To Net: NetName=GND Pin=J300-7
+Added Pin To Net: NetName=GND Pin=J300-8
+Added Pin To Net: NetName=GND Pin=J301-29
+Added Pin To Net: NetName=GND Pin=J301-35
+Added Pin To Net: NetName=GND Pin=J301-36
+Added Pin To Net: NetName=GND Pin=J301-41
+Added Pin To Net: NetName=GND Pin=J301-42
+Added Pin To Net: NetName=GND Pin=J302-5
+Added Pin To Net: NetName=GND Pin=J302-6
+Added Pin To Net: NetName=GND Pin=J302-12
+Added Pin To Net: NetName=GND Pin=J302-41
+Added Pin To Net: NetName=GND Pin=J302-42
+Added Net: Name=GND
+Added Pin To Net: NetName=INT Pin=J300-4
+Added Pin To Net: NetName=INT Pin=J302-1
+Added Net: Name=INT
+Added Pin To Net: NetName=LCD_RST Pin=J300-1
+Added Pin To Net: NetName=LCD_RST Pin=J302-4
+Added Net: Name=LCD_RST
+Added Pin To Net: NetName=NetJ301_2 Pin=J301-2
+Added Pin To Net: NetName=NetJ301_2 Pin=J302-39
+Added Net: Name=NetJ301_2
+Added Pin To Net: NetName=NetJ301_3 Pin=J301-3
+Added Pin To Net: NetName=NetJ301_3 Pin=J302-38
+Added Net: Name=NetJ301_3
+Added Pin To Net: NetName=NetJ301_5 Pin=J301-5
+Added Pin To Net: NetName=NetJ301_5 Pin=J302-36
+Added Net: Name=NetJ301_5
+Added Pin To Net: NetName=NetJ301_6 Pin=J301-6
+Added Pin To Net: NetName=NetJ301_6 Pin=J302-35
+Added Net: Name=NetJ301_6
+Added Pin To Net: NetName=NetJ301_7 Pin=J301-7
+Added Pin To Net: NetName=NetJ301_7 Pin=J302-34
+Added Net: Name=NetJ301_7
+Added Pin To Net: NetName=NetJ301_8 Pin=J301-8
+Added Pin To Net: NetName=NetJ301_8 Pin=J302-33
+Added Net: Name=NetJ301_8
+Added Pin To Net: NetName=NetJ301_9 Pin=J301-9
+Added Pin To Net: NetName=NetJ301_9 Pin=J302-32
+Added Net: Name=NetJ301_9
+Added Pin To Net: NetName=NetJ301_10 Pin=J301-10
+Added Pin To Net: NetName=NetJ301_10 Pin=J302-31
+Added Net: Name=NetJ301_10
+Added Pin To Net: NetName=NetJ301_11 Pin=J301-11
+Added Pin To Net: NetName=NetJ301_11 Pin=J302-30
+Added Net: Name=NetJ301_11
+Added Pin To Net: NetName=NetJ301_12 Pin=J301-12
+Added Pin To Net: NetName=NetJ301_12 Pin=J302-29
+Added Net: Name=NetJ301_12
+Added Pin To Net: NetName=NetJ301_13 Pin=J301-13
+Added Pin To Net: NetName=NetJ301_13 Pin=J302-28
+Added Net: Name=NetJ301_13
+Added Pin To Net: NetName=NetJ301_14 Pin=J301-14
+Added Pin To Net: NetName=NetJ301_14 Pin=J302-27
+Added Net: Name=NetJ301_14
+Added Pin To Net: NetName=NetJ301_15 Pin=J301-15
+Added Pin To Net: NetName=NetJ301_15 Pin=J302-26
+Added Net: Name=NetJ301_15
+Added Pin To Net: NetName=NetJ301_16 Pin=J301-16
+Added Pin To Net: NetName=NetJ301_16 Pin=J302-25
+Added Net: Name=NetJ301_16
+Added Pin To Net: NetName=NetJ301_17 Pin=J301-17
+Added Pin To Net: NetName=NetJ301_17 Pin=J302-24
+Added Net: Name=NetJ301_17
+Added Pin To Net: NetName=NetJ301_18 Pin=J301-18
+Added Pin To Net: NetName=NetJ301_18 Pin=J302-23
+Added Net: Name=NetJ301_18
+Added Pin To Net: NetName=NetJ301_19 Pin=J301-19
+Added Pin To Net: NetName=NetJ301_19 Pin=J302-22
+Added Net: Name=NetJ301_19
+Added Pin To Net: NetName=NetJ301_20 Pin=J301-20
+Added Pin To Net: NetName=NetJ301_20 Pin=J302-21
+Added Net: Name=NetJ301_20
+Added Pin To Net: NetName=NetJ301_21 Pin=J301-21
+Added Pin To Net: NetName=NetJ301_21 Pin=J302-20
+Added Net: Name=NetJ301_21
+Added Pin To Net: NetName=NetJ301_22 Pin=J301-22
+Added Pin To Net: NetName=NetJ301_22 Pin=J302-19
+Added Net: Name=NetJ301_22
+Added Pin To Net: NetName=NetJ301_23 Pin=J301-23
+Added Pin To Net: NetName=NetJ301_23 Pin=J302-18
+Added Net: Name=NetJ301_23
+Added Pin To Net: NetName=NetJ301_24 Pin=J301-24
+Added Pin To Net: NetName=NetJ301_24 Pin=J302-17
+Added Net: Name=NetJ301_24
+Added Pin To Net: NetName=NetJ301_25 Pin=J301-25
+Added Pin To Net: NetName=NetJ301_25 Pin=J302-16
+Added Net: Name=NetJ301_25
+Added Pin To Net: NetName=NetJ301_26 Pin=J301-26
+Added Pin To Net: NetName=NetJ301_26 Pin=J302-15
+Added Net: Name=NetJ301_26
+Added Pin To Net: NetName=NetJ301_27 Pin=J301-27
+Added Pin To Net: NetName=NetJ301_27 Pin=J302-14
+Added Net: Name=NetJ301_27
+Added Pin To Net: NetName=NetJ301_28 Pin=J301-28
+Added Pin To Net: NetName=NetJ301_28 Pin=J302-13
+Added Net: Name=NetJ301_28
+Added Pin To Net: NetName=NetJ301_30 Pin=J301-30
+Added Pin To Net: NetName=NetJ301_30 Pin=J302-11
+Added Net: Name=NetJ301_30
+Added Pin To Net: NetName=NetJ301_31 Pin=J301-31
+Added Pin To Net: NetName=NetJ301_31 Pin=J302-10
+Added Net: Name=NetJ301_31
+Added Pin To Net: NetName=NetJ301_32 Pin=J301-32
+Added Pin To Net: NetName=NetJ301_32 Pin=J302-9
+Added Net: Name=NetJ301_32
+Added Pin To Net: NetName=NetJ301_33 Pin=J301-33
+Added Pin To Net: NetName=NetJ301_33 Pin=J302-8
+Added Net: Name=NetJ301_33
+Added Pin To Net: NetName=NetJ301_34 Pin=J301-34
+Added Pin To Net: NetName=NetJ301_34 Pin=J302-7
+Added Net: Name=NetJ301_34
+Added Pin To Net: NetName=SCL Pin=J300-6
+Added Pin To Net: NetName=SCL Pin=J302-2
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=J300-5
+Added Pin To Net: NetName=SDA Pin=J302-3
+Added Net: Name=SDA
+Added Pin To Net: NetName=VCCP Pin=J300-2
+Added Pin To Net: NetName=VCCP Pin=J301-4
+Added Pin To Net: NetName=VCCP Pin=J302-37
+Added Net: Name=VCCP

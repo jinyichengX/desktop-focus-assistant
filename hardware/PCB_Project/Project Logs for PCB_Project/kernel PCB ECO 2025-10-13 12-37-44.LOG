@@ -1,0 +1,78 @@
+Added Component: Designator=Q9(SOT-23-3_L3.0-W1.7-P0.95-LS2.9-BR)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Collector - Emitter Voltage VCEO"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Configuration"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Collector Cutoff"; Value = "100nA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Collector(Ic)"; Value = "500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/S8050/338624.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Current Gain"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "S8050_C364312"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitter-Base Voltage(Vebo)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "hFE:200-350 NPN µçÁ÷:500mA µçÑ¹:25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MDD(³½´ï°ëµ¼Ìå)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "S8050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55¡æ~+150¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pd - Power Dissipation"; Value = "300mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C364312"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "S8050-J3Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transition frequency(fT)"; Value = "150MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "NPN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vce Saturation(VCE(sat))"; Value = "600mV@500mA,50mA"; VariantName = "[No Variations]"
+Added Component: Designator=R40(0402_R)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/0402WGF1001TCE/12256.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0402WGF1001TCE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "1k¦¸ ¡À1% 62.5mW ºñÄ¤µç×è"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(ºñÉù)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0402WGF1001TCE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55¡æ~+155¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C11702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0402WGF1001TCE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "¡À100ppm/¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "¡À1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ºñÄ¤µç×è"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k¦¸"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage-Supply(Max)"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=R41(0402_R)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0402WGF1002TCE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "10k¦¸ ¡À1% 62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(ºñÉù)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0402WGF1002TCE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "10k¦¸"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-55¡æ~+155¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Overload Voltage (Max)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C25744"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0402WGF1002TCE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "¡À100ppm/¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "¡À1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ºñÄ¤µç×è"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k¦¸"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Q9-2
+Added Pin To Net: NetName=NetJ5_1 Pin=Q9-3
+Added Pin To Net: NetName=LEDK Pin=R40-2
+Added Pin To Net: NetName=GND Pin=R41-2
+Change Net Name : Old Net Name=NetJ5_2 New Net Name=15V
+Added Pin To Net: NetName=NetQ9_1 Pin=Q9-1
+Added Pin To Net: NetName=NetQ9_1 Pin=R40-1
+Added Pin To Net: NetName=NetQ9_1 Pin=R41-1
+Added Net: Name=NetQ9_1
+Added Member To Class: ClassName=kernel Member=Component Q9 S8050
+Added Member To Class: ClassName=kernel Member=Component R40 1K
+Added Member To Class: ClassName=kernel Member=Component R41 10K

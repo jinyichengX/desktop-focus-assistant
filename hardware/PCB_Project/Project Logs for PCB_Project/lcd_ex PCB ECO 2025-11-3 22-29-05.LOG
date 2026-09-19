@@ -1,0 +1,277 @@
+Added Component: Designator=C200(0805_C)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170923/C1554_1506149268708988361.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0402CG200J500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "20pF ±5% 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH(风华)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0402CG200J500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "20pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C1554"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0402CG200J500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "C0G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rated"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C201(0805_C)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170923/C1554_1506149268708988361.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0402CG200J500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "20pF ±5% 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH(风华)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0402CG200J500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "20pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C1554"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0402CG200J500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "C0G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rated"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C202(0805_C)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170923/C1554_1506149268708988361.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0402CG200J500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "20pF ±5% 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH(风华)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0402CG200J500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "20pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C1554"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0402CG200J500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "C0G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rated"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=J200(FPC-SMD_AFC01-S40FCA-00)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "下接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/AFC01-S40FCA-00/253933.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "AFC01-S40FCA-00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FFC, FCB Thickness"; Value = "0.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height Above Board"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "间距:0.5mm P数:40P 翻盖式 下接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Locking Feature"; Value = "翻盖式"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JS(钜硕电子)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "AFC01-S40FCA-00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "卧贴"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "40P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD,P=0.5mm,卧贴"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C262674"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "AFC01-S40FCA-00"; VariantName = "[No Variations]"
+Added Component: Designator=J201(FPC-SMD_AFC01-S40FCA-00)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "下接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/AFC01-S40FCA-00/253933.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "AFC01-S40FCA-00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FFC, FCB Thickness"; Value = "0.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height Above Board"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "间距:0.5mm P数:40P 翻盖式 下接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Locking Feature"; Value = "翻盖式"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JS(钜硕电子)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "AFC01-S40FCA-00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "卧贴"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "40P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD,P=0.5mm,卧贴"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C262674"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "AFC01-S40FCA-00"; VariantName = "[No Variations]"
+Added Component: Designator=R200(0805_R)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0402WGF1002TCE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "10kΩ ±1% 62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(厚声)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0402WGF1002TCE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "10kΩ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-55℃~+155℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Overload Voltage (Max)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C25744"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0402WGF1002TCE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "厚膜电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10kΩ"; VariantName = "[No Variations]"
+Added Component: Designator=U200(TSSOP-16_L5.0-W4.4-P0.65-LS6.4-BL)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/XPT2046/19779.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "XPT2046"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "XPT2046"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XPT(矽普特)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "XPT2046"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "TSSOP-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C19076"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "XPT2046"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Touch Screen Type"; Value = "-"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=YU Pin=J200-37
+Added Pin To Net: NetName=XL Pin=J200-38
+Added Pin To Net: NetName=YD Pin=J200-39
+Added Pin To Net: NetName=XR Pin=J200-40
+Added Pin To Net: NetName=XL Pin=U200-2
+Added Pin To Net: NetName=YU Pin=U200-3
+Added Pin To Net: NetName=XR Pin=U200-4
+Added Pin To Net: NetName=YD Pin=U200-5
+Added Pin To Net: NetName=GND Pin=C200-1
+Added Pin To Net: NetName=GND Pin=C201-1
+Added Pin To Net: NetName=GND Pin=C202-2
+Added Pin To Net: NetName=GND Pin=U200-6
+Added Pin To Net: NetName=GND Pin=U200-8
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC202_1 Pin=C202-1
+Added Pin To Net: NetName=NetC202_1 Pin=U200-7
+Added Net: Name=NetC202_1
+Added Pin To Net: NetName=NetJ200_1 Pin=J200-1
+Added Pin To Net: NetName=NetJ200_1 Pin=J201-40
+Added Net: Name=NetJ200_1
+Added Pin To Net: NetName=NetJ200_2 Pin=J200-2
+Added Pin To Net: NetName=NetJ200_2 Pin=J201-39
+Added Net: Name=NetJ200_2
+Added Pin To Net: NetName=NetJ200_3 Pin=J200-3
+Added Pin To Net: NetName=NetJ200_3 Pin=J201-38
+Added Net: Name=NetJ200_3
+Added Pin To Net: NetName=NetJ200_4 Pin=J200-4
+Added Pin To Net: NetName=NetJ200_4 Pin=J201-37
+Added Net: Name=NetJ200_4
+Added Pin To Net: NetName=NetJ200_5 Pin=J200-5
+Added Pin To Net: NetName=NetJ200_5 Pin=J201-36
+Added Net: Name=NetJ200_5
+Added Pin To Net: NetName=NetJ200_6 Pin=J200-6
+Added Pin To Net: NetName=NetJ200_6 Pin=J201-35
+Added Net: Name=NetJ200_6
+Added Pin To Net: NetName=NetJ200_7 Pin=J200-7
+Added Pin To Net: NetName=NetJ200_7 Pin=J201-34
+Added Net: Name=NetJ200_7
+Added Pin To Net: NetName=NetJ200_8 Pin=J200-8
+Added Pin To Net: NetName=NetJ200_8 Pin=J201-33
+Added Net: Name=NetJ200_8
+Added Pin To Net: NetName=NetJ200_9 Pin=J200-9
+Added Pin To Net: NetName=NetJ200_9 Pin=J201-32
+Added Net: Name=NetJ200_9
+Added Pin To Net: NetName=NetJ200_10 Pin=J200-10
+Added Pin To Net: NetName=NetJ200_10 Pin=J201-31
+Added Net: Name=NetJ200_10
+Added Pin To Net: NetName=NetJ200_11 Pin=J200-11
+Added Pin To Net: NetName=NetJ200_11 Pin=J201-30
+Added Net: Name=NetJ200_11
+Added Pin To Net: NetName=NetJ200_12 Pin=J200-12
+Added Pin To Net: NetName=NetJ200_12 Pin=J201-29
+Added Net: Name=NetJ200_12
+Added Pin To Net: NetName=NetJ200_13 Pin=J200-13
+Added Pin To Net: NetName=NetJ200_13 Pin=J201-28
+Added Net: Name=NetJ200_13
+Added Pin To Net: NetName=NetJ200_14 Pin=J200-14
+Added Pin To Net: NetName=NetJ200_14 Pin=J201-27
+Added Net: Name=NetJ200_14
+Added Pin To Net: NetName=NetJ200_15 Pin=J200-15
+Added Pin To Net: NetName=NetJ200_15 Pin=J201-26
+Added Net: Name=NetJ200_15
+Added Pin To Net: NetName=NetJ200_16 Pin=J200-16
+Added Pin To Net: NetName=NetJ200_16 Pin=J201-25
+Added Net: Name=NetJ200_16
+Added Pin To Net: NetName=NetJ200_17 Pin=J200-17
+Added Pin To Net: NetName=NetJ200_17 Pin=J201-24
+Added Net: Name=NetJ200_17
+Added Pin To Net: NetName=NetJ200_18 Pin=J200-18
+Added Pin To Net: NetName=NetJ200_18 Pin=J201-23
+Added Net: Name=NetJ200_18
+Added Pin To Net: NetName=NetJ200_19 Pin=J200-19
+Added Pin To Net: NetName=NetJ200_19 Pin=J201-22
+Added Net: Name=NetJ200_19
+Added Pin To Net: NetName=NetJ200_20 Pin=J200-20
+Added Pin To Net: NetName=NetJ200_20 Pin=J201-21
+Added Net: Name=NetJ200_20
+Added Pin To Net: NetName=NetJ200_21 Pin=J200-21
+Added Pin To Net: NetName=NetJ200_21 Pin=J201-20
+Added Net: Name=NetJ200_21
+Added Pin To Net: NetName=NetJ200_22 Pin=J200-22
+Added Pin To Net: NetName=NetJ200_22 Pin=J201-19
+Added Net: Name=NetJ200_22
+Added Pin To Net: NetName=NetJ200_23 Pin=J200-23
+Added Pin To Net: NetName=NetJ200_23 Pin=J201-18
+Added Net: Name=NetJ200_23
+Added Pin To Net: NetName=NetJ200_24 Pin=J200-24
+Added Pin To Net: NetName=NetJ200_24 Pin=J201-17
+Added Net: Name=NetJ200_24
+Added Pin To Net: NetName=NetJ200_25 Pin=J200-25
+Added Pin To Net: NetName=NetJ200_25 Pin=J201-16
+Added Net: Name=NetJ200_25
+Added Pin To Net: NetName=NetJ200_26 Pin=J200-26
+Added Pin To Net: NetName=NetJ200_26 Pin=J201-15
+Added Net: Name=NetJ200_26
+Added Pin To Net: NetName=NetJ200_27 Pin=J200-27
+Added Pin To Net: NetName=NetJ200_27 Pin=J201-14
+Added Net: Name=NetJ200_27
+Added Pin To Net: NetName=NetJ200_28 Pin=J200-28
+Added Pin To Net: NetName=NetJ200_28 Pin=J201-13
+Added Net: Name=NetJ200_28
+Added Pin To Net: NetName=NetJ200_29 Pin=J200-29
+Added Pin To Net: NetName=NetJ200_29 Pin=J201-12
+Added Net: Name=NetJ200_29
+Added Pin To Net: NetName=NetJ200_30 Pin=J200-30
+Added Pin To Net: NetName=NetJ200_30 Pin=J201-11
+Added Net: Name=NetJ200_30
+Added Pin To Net: NetName=NetJ200_31 Pin=J200-31
+Added Pin To Net: NetName=NetJ200_31 Pin=J201-10
+Added Net: Name=NetJ200_31
+Added Pin To Net: NetName=NetJ200_32 Pin=J200-32
+Added Pin To Net: NetName=NetJ200_32 Pin=J201-9
+Added Net: Name=NetJ200_32
+Added Pin To Net: NetName=NetJ200_33 Pin=J200-33
+Added Pin To Net: NetName=NetJ200_33 Pin=J201-8
+Added Net: Name=NetJ200_33
+Added Pin To Net: NetName=NetJ200_34 Pin=J200-34
+Added Pin To Net: NetName=NetJ200_34 Pin=J201-7
+Added Net: Name=NetJ200_34
+Added Pin To Net: NetName=NetJ200_35 Pin=J200-35
+Added Pin To Net: NetName=NetJ200_35 Pin=J201-6
+Added Net: Name=NetJ200_35
+Added Pin To Net: NetName=NetJ200_36 Pin=J200-36
+Added Pin To Net: NetName=NetJ200_36 Pin=J201-5
+Added Net: Name=NetJ200_36
+Added Pin To Net: NetName=T_CLK Pin=J201-3
+Added Pin To Net: NetName=T_CLK Pin=U200-16
+Added Net: Name=T_CLK
+Added Pin To Net: NetName=T_CS Pin=J201-4
+Added Pin To Net: NetName=T_CS Pin=U200-15
+Added Net: Name=T_CS
+Added Pin To Net: NetName=T_MISO Pin=J201-2
+Added Pin To Net: NetName=T_MISO Pin=U200-12
+Added Net: Name=T_MISO
+Added Pin To Net: NetName=T_MOSI Pin=J201-1
+Added Pin To Net: NetName=T_MOSI Pin=U200-14
+Added Net: Name=T_MOSI
+Added Pin To Net: NetName=T_PEN Pin=R200-1
+Added Pin To Net: NetName=T_PEN Pin=U200-11
+Added Net: Name=T_PEN
+Added Pin To Net: NetName=VCCP Pin=C200-2
+Added Pin To Net: NetName=VCCP Pin=C201-2
+Added Pin To Net: NetName=VCCP Pin=R200-2
+Added Pin To Net: NetName=VCCP Pin=U200-1
+Added Pin To Net: NetName=VCCP Pin=U200-9
+Added Pin To Net: NetName=VCCP Pin=U200-10
+Added Net: Name=VCCP

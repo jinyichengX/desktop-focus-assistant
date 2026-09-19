@@ -1,0 +1,5 @@
+Change Physical Footprint: Designator=C100 Old Footprint=0402_C New Footprint=0402_C
+Change Physical Footprint: Designator=C101 Old Footprint=0402_C New Footprint=0402_C
+Change Physical Footprint: Designator=C102 Old Footprint=0402_C New Footprint=0402_C
+Change Physical Footprint: Designator=J100 Old Footprint=FPC-SMD_AFC01-S14FCA-00 New Footprint=FPC-SMD_AFC01-S14FCA-00
+Change Physical Footprint: Designator=J101 Old Footprint=RJ45-TH_HR911105A New Footprint=RJ45-TH_HR911105A

@@ -1,0 +1,70 @@
+# ============================================================
+# 桌面专注助手 - .gitignore
+# 原则: 排除私人/法律文件、第三方版权资料、大二进制文件、构建产物
+# ============================================================
+
+# ---- 私人 / 法律 / 财务文件 ----
+打样发票等/
+打样费用小计.png
+
+# ---- 第三方版权资料(厂商开发板/模组资料) ----
+参考设计/
+铺铜插件/
+hardware/【正点原子】*/
+hardware/野火【电阻触摸屏_MCU_3.2_2.8寸】模块资料/
+software/DX-WF24资料包*/
+
+# ---- 第三方库: LVGL(用户选择完全排除不跟踪) ----
+# ESP32 工程下的 LVGL
+software/ESP32-S3*/components/lvgl/
+# STM32 Keil 工程下的 LVGL(含 demos 资源/字体)
+software/drivers/lvgl/
+
+# ---- Keil MDK 构建产物 / 用户本地配置 ----
+software/drivers/OBJ/
+software/drivers/Listings/
+software/drivers/.VSCodeCounter/
+*.uvguix.*
+*.uvoptx
+*.uvopt
+*.scvd
+*.bak
+
+# ---- 大二进制文件(视频/压缩包) ----
+*.mp4
+*.zip
+*.7z
+*.rar
+*.mov
+*.avi
+*.mkv
+
+# ---- Altium Designer 自动生成/历史备份 ----
+**/History/
+**/__Previews/
+*.PcbDoc.Zip
+*.SchDoc.Zip
+*.PrjPCB.Zip
+*.OutJob   # 输出作业配置, 按需保留; 默认排除
+**/Project Outputs for*/
+
+# ---- ESP-IDF / ESP32 构建产物 ----
+**/build/
+**/managed_components/
+**/dependencies.lock
+sdkconfig.old
+sdkconfig.bak
+*.o
+*.bin
+*.elf
+*.map
+
+# ---- 编辑器 / IDE ----
+.vscode/
+*.code-workspace
+
+# ---- 系统文件 ----
+Thumbs.db
+desktop.ini
+.DS_Store
+*.lnk
